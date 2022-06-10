@@ -3,8 +3,8 @@ Ejemplo práctico de cómo utilizar `tidymodels` para hacer una clasificacion ut
 
 El contenido proviene del libro *Data Science: A first introduction*. 
 
-Autores: Tiffany Timbers, Trevor Campbell, and Melissa Lee
+**Autores:** Tiffany Timbers, Trevor Campbell, and Melissa Lee
 
-Prólogo: Roger Peng
+**Prólogo:** Roger Peng
 
 Link: https://datasciencebook.ca/
